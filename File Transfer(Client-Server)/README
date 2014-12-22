@@ -1,11 +1,10 @@
 Project 1: netcat_part
 -----------------------
+Name: MANISH KUMAR
+email:manivutt@indiana.edu
 
 Name: RAHUL PASUNURI
 email: rahupasu@indiana.edu
-
-Name: MANISH KUMAR
-uname:manivutt@indiana.edu
 
 ------------------------
 This project implements a simple client-server model, in which a client can send messages or files to a server, and in server both these received messages and files are stored locally as files.    
