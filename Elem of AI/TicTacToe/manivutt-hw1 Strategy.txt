@@ -1,0 +1,34 @@
+
+Name: Manish Kumar Vuttunoori
+Id:   manivutt  | 0003381314
+
+
+PART - I
+
+Turing Test Vs Elementary Test:
+I feel that to some extent it is in agreement with the kind of questions Turing test would have comprised of but if this test considers Performance as a factor unlike
+ Turing test, it would not be much valuable. Below are my views.
+First of all, it all depends on what one considers AI system’s ability should be i.e, if it should be intelligent or should perfectly imitate a human or both.
+
+Pros:
+•	Assuming that this test doesn’t assume the person or computer (to behave) necessarily to be a 4th grader or of that age, it would make a great impact as Turing
+	 test is mostly a textual form of conversation between human and computer, whereas this test also involves graphical content which a general human can analyze without much efforts to answer the question, 
+	but not possible for any general machine unless it has extreme image processing and deduction capabilities. 
+	Most of the machines might fail to answer such questions and therefore fail the test.
+•	This also goes in line with the property Turing test searches in a machine…”can it imitate a human?”.
+
+Cons:
+•	If it is not for such questions and the reasoning questions in part – II of the test, most of the other questions are knowledge based which do not necessarily
+	 determine if it is a person that is answering or a computer. From the sample tests available, seems like this test does not include psychological questions which makes this test much weaker than Turing test.   
+
+
+PART - II (strategies implemented in TicTacToe bot game)
+
+Implemented the two conditions which were specified in the manual. 
+Along with these, I thought the following strategies would help the bot in tackling several situations...
+
+1. When the bot starts the game, it occupies the center first so that it can thwart chances of opponents winning diagonally.
+2. When the player starts, depending on where the player's first selection goes, bot handles the next step. For example, if player places his first move in one of 
+	the corners, bot places the next move in center and vice versa.
+3. If at any step made by player he places his move in the same diagonal aligning with his first placed move, bot picks an odd positioned place to place 
+	its move.

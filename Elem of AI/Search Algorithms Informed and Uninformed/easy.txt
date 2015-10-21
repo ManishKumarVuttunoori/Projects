@@ -1,0 +1,24 @@
+Doing Depth First Search  on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.000475883483887 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Breadth First Search on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.000427007675171 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic heuristic_first on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.000468015670776 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic heuristic_first on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.00046706199646 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic heuristic_second on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.00044584274292 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic heuristic_second on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.000442981719971 seconds of walltime
+----------------------------------------------------------------------------------

@@ -1,0 +1,159 @@
+                         #################### PRESOLVED #############################
+
+Doing Depth First Search  on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+
+Finding the solution involved 0.000475883483887 seconds of walltime
+----------------------------------------------------------------------------------
+
+
+Doing Breadth First Search on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+
+Finding the solution involved 0.000427007675171 seconds of walltime
+----------------------------------------------------------------------------------
+
+
+Doing Best First with heuristic heuristic_first on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+
+Finding the solution involved 0.000468015670776 seconds of walltime
+----------------------------------------------------------------------------------
+
+
+Doing A* with heuristic heuristic_first on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+
+Finding the solution involved 0.00046706199646 seconds of walltime
+----------------------------------------------------------------------------------
+
+
+Doing Best First with heuristic heuristic_second on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+
+Finding the solution involved 0.00044584274292 seconds of walltime
+----------------------------------------------------------------------------------
+
+
+Doing A* with heuristic heuristic_second on presolved:
+The solution's cost is: 0, and involved expanding 1 verticies
+
+Finding the solution involved 0.000442981719971 seconds of walltime
+----------------------------------------------------------------------------------
+
+
+                         ################### EASY #####################################
+
+Doing Depth First Search  on easy:
+The solution's cost is: 10.1, and involved expanding 35 verticies
+
+Finding the solution involved 0.0330488681793 seconds of walltime
+----------------------------------------------------------------------------------
+
+
+Doing Breadth First Search on easy:
+The solution's cost is: 2.1, and involved expanding 11 verticies
+
+Finding the solution involved 0.0107359886169 seconds of walltime
+----------------------------------------------------------------------------------
+
+
+Doing Best First with heuristic heuristic_first on easy:
+The solution's cost is: 2.1, and involved expanding 4 verticies
+
+Finding the solution involved 0.00427389144897 seconds of walltime
+----------------------------------------------------------------------------------
+
+
+Doing A* with heuristic heuristic_first on easy:
+The solution's cost is: 2.1, and involved expanding 4 verticies
+
+Finding the solution involved 0.00428295135498 seconds of walltime
+----------------------------------------------------------------------------------
+
+
+Doing Best First with heuristic heuristic_second on easy:
+The solution's cost is: 2.1, and involved expanding 4 verticies
+
+Finding the solution involved 0.00431609153748 seconds of walltime
+----------------------------------------------------------------------------------
+
+
+Doing A* with heuristic heuristic_second on easy:
+The solution's cost is: 2.1, and involved expanding 4 verticies
+
+Finding the solution involved 0.00425291061401 seconds of walltime
+----------------------------------------------------------------------------------
+
+                          ##################### MEDIUM #####################################
+
+
+Doing Depth First Search  on medium:
+Ran out of time for thinking
+The queue is of size: 1961
+
+
+Doing Breadth First Search on medium:
+Ran out of time for thinking
+The queue is of size: 5701
+
+
+Doing Best First with heuristic heuristic_first on medium:
+The solution's cost is: 21.5, and involved expanding 34 verticies
+
+Finding the solution involved 0.0360429286957 seconds of walltime
+----------------------------------------------------------------------------------
+
+
+Doing A* with heuristic heuristic_first on medium:
+The solution's cost is: 17.3, and involved expanding 1077 verticies
+
+Finding the solution involved 1.98033595085 seconds of walltime
+----------------------------------------------------------------------------------
+
+
+Doing Best First with heuristic heuristic_second on medium:
+The solution's cost is: 24.3, and involved expanding 38 verticies
+
+Finding the solution involved 0.0431067943573 seconds of walltime
+----------------------------------------------------------------------------------
+
+
+Doing A* with heuristic heuristic_second on medium:
+The solution's cost is: 17.3, and involved expanding 208 verticies
+
+Finding the solution involved 0.252700090408 seconds of walltime
+----------------------------------------------------------------------------------
+			################# HARD ################################
+Doing Depth First Search  on hard:
+Ran out of time for thinking
+The queue is of size: 4061
+
+
+                      ######################## HARD ##########################################
+Doing Breadth First Search on hard:
+Ran out of time for thinking
+The queue is of size: 6568
+
+
+Doing Best First with heuristic heuristic_first on hard:
+Ran out of time for thinking
+The queue is of size: 4779
+
+
+Doing A* with heuristic heuristic_first on hard:
+Ran out of time for thinking
+The queue is of size: 11255
+
+
+Doing Best First with heuristic heuristic_second on hard:
+Ran out of time for thinking
+The queue is of size: 3602
+
+
+Doing A* with heuristic heuristic_second on hard:
+The solution's cost is: 42.3, and involved expanding 1597 verticies
+
+Finding the solution involved 3.85530114174 seconds of walltime
+----------------------------------------------------------------------------------
+

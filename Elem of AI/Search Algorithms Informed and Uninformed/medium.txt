@@ -1,0 +1,22 @@
+Doing Depth First Search  on medium:
+Ran out of time for thinking
+The queue is of size: 1961
+Doing Breadth First Search on medium:
+Ran out of time for thinking
+The queue is of size: 5701
+Doing Best First with heuristic heuristic_first on medium:
+The solution's cost is: 21.5, and involved expanding 34 verticies
+Finding the solution involved 0.0360429286957 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic heuristic_first on medium:
+The solution's cost is: 17.3, and involved expanding 1077 verticies
+Finding the solution involved 1.98033595085 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic heuristic_second on medium:
+The solution's cost is: 24.3, and involved expanding 38 verticies
+Finding the solution involved 0.0431067943573 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic heuristic_second on medium:
+The solution's cost is: 17.3, and involved expanding 208 verticies
+Finding the solution involved 0.252700090408 seconds of walltime
+----------------------------------------------------------------------------------

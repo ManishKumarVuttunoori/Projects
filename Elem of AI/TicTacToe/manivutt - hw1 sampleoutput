@@ -1,0 +1,261 @@
+Name: Manish Kumar Vuttunoori
+uname: manivutt
+
+
+
+Python 2.7.7 (default, Jun  1 2014, 14:21:57) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Which player do you want to be?? x
+  |   |   
+  |   |   
+  |   |   
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 1
+  |   |   
+  |   |   
+X |   |   
+O 's turn
+
+
+  |   |   
+  | O |   
+X |   |   
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 3
+  |   |   
+  | O |   
+X |   | X 
+O 's turn
+
+
+  |   |   
+  | O |   
+X | O | X 
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 8
+  | X |   
+  | O |   
+X | O | X 
+O 's turn
+
+
+  | X |   
+  | O | O 
+X | O | X 
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 4
+  | X |   
+X | O | O 
+X | O | X 
+O 's turn
+
+
+O | X |   
+X | O | O 
+X | O | X 
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 9
+Well...its a draw..Here is the final deciding move of the game
+O | X | X 
+X | O | O 
+X | O | X 
+>>> ================================ RESTART ================================
+>>> 
+Which player do you want to be?? x
+  |   |   
+  |   |   
+  |   |   
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 5
+  |   |   
+  | X |   
+  |   |   
+O 's turn
+
+
+  |   |   
+  | X |   
+  |   | O 
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 7
+X |   |   
+  | X |   
+  |   | O 
+O 's turn
+
+
+X |   | O 
+  | X |   
+  |   | O 
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 6
+X |   | O 
+  | X | X 
+  |   | O 
+O 's turn
+
+
+X |   | O 
+O | X | X 
+  |   | O 
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 8
+X | X | O 
+O | X | X 
+  |   | O 
+O 's turn
+
+
+X | X | O 
+O | X | X 
+  | O | O 
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 1
+Well...its a draw..Here is the final deciding move of the game
+X | X | O 
+O | X | X 
+X | O | O 
+>>> ================================ RESTART ================================
+>>> 
+Which player do you want to be?? o
+  |   |   
+  |   |   
+  |   |   
+X 's turn
+
+
+  |   |   
+  | X |   
+  |   |   
+O 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 1
+  |   |   
+  | X |   
+O |   |   
+X 's turn
+
+
+  |   |   
+  | X | X 
+O |   |   
+O 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 4
+  |   |   
+O | X | X 
+O |   |   
+X 's turn
+
+
+X |   |   
+O | X | X 
+O |   |   
+O 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 3
+X |   |   
+O | X | X 
+O |   | O 
+X 's turn
+
+
+X |   |   
+O | X | X 
+O | X | O 
+O 's turn
+
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 8
+X | O |   
+O | X | X 
+O | X | O 
+X 's turn
+
+
+Well...its a draw..Here is the final deciding move of the game
+X | O | X 
+O | X | X 
+O | X | O 
+>>> 
